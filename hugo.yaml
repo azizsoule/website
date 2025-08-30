@@ -1,7 +1,7 @@
-baseURL: "https://www.azizsoule.me"
+baseURL: "https://www.azizsoule.com"
 languageCode: "en"
 theme: PaperMod
-title: azizsoule.me
+title: azizsoule.com
 
 # Enable emoji shortcodes. Ex: :smile:
 enableEmoji: true
