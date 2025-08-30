@@ -117,7 +117,7 @@ outputs:
     - HTML
     - RSS
     - JSON
-  rss":
+  rss:
     - HTML
     - RSS
     - JSON
