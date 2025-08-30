@@ -19,5 +19,5 @@ En dehors du travail, j’aime le cinéma, la musique, le tennis, le dessin et l
 
 J'espère que vous apprécierez mon site et que vous y trouverez des informations utiles 😊!
 
-🔗 [LinkedIn](https://www.linkedin.com/in/azizsoule) • [GitHub](https://github.com/azizsoule) • [Email](mailto:aziz.soule.dev@gmail.com) • [CV (PDF)](https://www.azizsoule.com/resume/resume-en.pdf)
+🔗 [LinkedIn](https://www.linkedin.com/in/azizsoule) • [GitHub](https://github.com/azizsoule) • [Email](mailto:aziz.soule.dev@gmail.com) • [CV (PDF)](https://www.azizsoule.com/resume/aziz-soule-resume-fr.pdf)
 
